@@ -2,7 +2,7 @@ Project Title: **Expense Tracker**
 **Project Description**:
 The Expense Tracker is a web application designed to help users manage their expenses and track their income. This application allows users to easily input their expenses, categorize them, and track income sources. By providing an intuitive interface for adding, viewing, and analyzing financial data, this project helps users better understand their spending habits and manage their finances.
 
-Key Features:
+<u>Key Features</u>:
 Add Expenses: Users can input expenses, categorize them (e.g., Food, Rent, Shopping), and enter the amount and date.
 Add Income: Users can input their income sources and amounts.
 Analytics: The app generates insightful reports, including:
